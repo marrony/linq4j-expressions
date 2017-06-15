@@ -1,2 +1,4 @@
 *.swp
+*.iml
 target/
+.idea/
